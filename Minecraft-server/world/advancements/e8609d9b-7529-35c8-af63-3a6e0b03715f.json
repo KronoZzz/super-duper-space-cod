@@ -1,0 +1,21 @@
+{
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-04-04 01:44:05 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-04-04 01:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-04-04 01:44:05 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

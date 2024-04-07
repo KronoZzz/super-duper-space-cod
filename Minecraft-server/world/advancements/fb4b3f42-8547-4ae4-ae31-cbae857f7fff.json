@@ -1,0 +1,191 @@
+{
+  "upgradednetherite_items:recipes/upgraded_netherite_pearl_smithing": {
+    "criteria": {
+      "has_ender_pearl": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-04-01 18:05:15 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_axe": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_items:recipes/netherite_apple": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_helmet": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-04-01 18:05:15 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_shovel": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_bow_smithing": {
+    "criteria": {
+      "has_netherite_bow": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_leggings": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_horse_armor": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_sword": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2024-04-01 18:07:07 -0700",
+      "minecraft:river": "2024-04-01 18:05:15 -0700",
+      "minecraft:desert": "2024-04-01 18:13:31 -0700"
+    },
+    "done": false
+  },
+  "upgradednetherite:recipes/upgraded_netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_boots": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_upgrade_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_boots": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_items:recipes/gold_upgraded_netherite_apple": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_axe": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/netherite_horse_armor": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_leggings": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_helmet": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-04-01 18:07:08 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_horse_armor": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_sword": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_shovel": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_bow_smithing": {
+    "criteria": {
+      "has_netherite_bow": "2024-04-01 18:06:45 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
